@@ -19,7 +19,9 @@ class SmallText extends StatelessWidget {
         this.height = 1.2,
         this.fontWeight = FontWeight.normal,
         this.textAlign = TextAlign.start,
-        this.size = 12})
+        this.size = 12
+
+      })
       : super(key: key);
 
   @override
